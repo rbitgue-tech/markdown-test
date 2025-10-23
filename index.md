@@ -39,3 +39,7 @@ Welcome to the **Colorful UI Design System** — a vibrant, accessible, and modu
 
 ```bash
 npm install colorful-ui
+```
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
